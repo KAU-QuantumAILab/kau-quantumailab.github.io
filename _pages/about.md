@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>02-300-0263 -</p>
+    <p>02-300-0263</p>
     <p>경기도 고양시 덕양구 항공대학로 76</p>
     <p>전자관 404호</p>
 
