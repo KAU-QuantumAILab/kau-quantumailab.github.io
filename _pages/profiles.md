@@ -16,7 +16,7 @@ member_groups:
     members:
       - name: DongSu Song
         korean_name: 송동수
-        image: none.png
+        image: dongsu.png
         interests: Adversarial attack
       - name: Muhammad Arslan
         korean_name: 무하마드 아르슬란
