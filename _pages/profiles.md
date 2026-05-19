@@ -93,7 +93,7 @@ member_groups:
       - name: Garam Jeong
         korean_name: 정가람
         image: garam.jpg
-        interests: Sabotage, It's not my fault.
+        interests: Sabotage, It's not my fault, Heart breaker
       - name: Sungwon Cho
         korean_name: 조성원
         image: none.png
@@ -101,9 +101,9 @@ member_groups:
       - name: Kyounglae Kim
         korean_name: 김경례
         image: none.png
-        interests: Sabotage, Smart monitor, planless
+        interests: Sabotage, Smart monitor, Planless
       - name: Soyun Yoon
         korean_name: 윤소윤
         image: soyun.png
-        interests: chase love
+        interests: Chase love
 ---
