@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Quantum AI, Explainable AI, Adversarial Attacks, and Other AI-Related Research Areas.
+subtitle: Quantum AI, Explainable AI, Adversarial Attacks, and other AI-Related research areas.
 
 profile:
   align: right
