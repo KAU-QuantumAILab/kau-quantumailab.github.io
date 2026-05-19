@@ -35,7 +35,13 @@ layout: page
               <div class="person-photo person-photo-placeholder"></div>
             {% endif %}
             <h3>{{ member.name }} ({{ member.korean_name }})</h3>
-            <p>AI modeling</p>
+            {% if member.interests and member.interests.size > 0 %}
+              <div class="person-interests" aria-label="{{ member.name }} research interests">
+                {% for interest in member.interests %}
+                  <span>{{ interest }}</span>
+                {% endfor %}
+              </div>
+            {% endif %}
           </div>
         {% endfor %}
       </div>

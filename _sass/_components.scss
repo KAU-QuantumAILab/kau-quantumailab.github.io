@@ -132,6 +132,25 @@ ul.task-list input[type="checkbox"] {
     margin-bottom: 0;
   }
 
+  .person-interests {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.35rem;
+    margin-top: -0.5rem;
+  }
+
+  .person-interests span {
+    display: inline-block;
+    padding: 0.2rem 0.55rem;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 999px;
+    color: var(--global-text-color);
+    background: var(--global-card-bg-color);
+    font-size: 0.78rem;
+    line-height: 1.35;
+  }
+
   @media (max-width: 768px) {
     .people-grid {
       grid-template-columns: repeat(auto-fill, 180px);

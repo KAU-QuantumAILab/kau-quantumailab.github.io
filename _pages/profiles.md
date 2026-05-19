@@ -17,26 +17,33 @@ member_groups:
       - name: DongSu Song
         korean_name: 송동수
         image: none.png
+        interest: Adversarial attack
       - name: Muhammad Arslan
         korean_name: 무하마드 아르슬란
         image: arslan.jpg
+        interest: Hyperspectral image
   - title: Master Students
     members:
       - name: ChanJu Kim
         korean_name: 김찬주
         image: chanju.jpg
+        interest: SAR image detection
       - name: OhSeong Kwon
         korean_name: 권오성
         image: ohseong.jpg
+        interest: RiDAR, Autonomous vehicle
       - name: Jihun Jeon
         korean_name: 전지훈
         image: jihun.jpg
+        interest: Autonomous Drone
       - name: Daehwa Ko
         korean_name: 고대화
         image: daehwa.jpg
+        interest: AI modeling, Mathmatical model analysis
       - name: Boseung Seo
         korean_name: 서보승
         image: boseung.jpg
+        interest: Natural adversarial example
       - name: SeungHyun Ko
         korean_name: 고승현
         image: none.png
@@ -46,6 +53,7 @@ member_groups:
       - name: Hyunbin Park
         korean_name: 박현빈
         image: none.png
+        interest: Autonomous Vehicle
   - title: Undergraduate Students
     members:
       - name: Eunsu Noh
@@ -81,5 +89,8 @@ member_groups:
         image: garam.jpg
       - name: Sungwon Cho
         korean_name: 조성원
+        image: none.png
+      - name: Kyounglae Kim
+        korean_name: 김경례
         image: none.png
 ---
