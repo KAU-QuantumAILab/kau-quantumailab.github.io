@@ -74,4 +74,12 @@ member_groups:
       - name: JaeHyeon Kim
         korean_name: 김재현
         image: jaehyeon.jpg
+  - title: Run
+    members:
+      - name: Garam Jeong
+        korean_name: 정가람
+        image: garam.jpg
+      - name: Sungwon Cho
+        korean_name: 조성원
+        image: none
 ---
