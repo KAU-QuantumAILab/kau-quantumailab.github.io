@@ -59,6 +59,7 @@ member_groups:
     members:
       - name: SeungHyun Ham
         korean_name: 함승현
+        image: seunghyun.jpg
       - name: MinSung Jo
         korean_name: 조민성
         image: minsung.png
