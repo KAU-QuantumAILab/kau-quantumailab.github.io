@@ -20,9 +20,5 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 Our laboratory conducts research on advanced artificial intelligence technologies, focusing on Quantum AI, Explainable AI (XAI), and Adversarial Attacks. We aim to develop reliable, interpretable, and robust AI systems by exploring both the theoretical foundations and practical applications of next-generation artificial intelligence. Through interdisciplinary research, we strive to advance the future of AI and its real-world impact.
