@@ -96,7 +96,7 @@ member_groups:
         interests: Sabotage, It's not my fault, Heart breaker
       - name: Sungwon Cho
         korean_name: 조성원
-        image: none.png
+        image: sungwon.png
         interests: Seoul national university lab, Poke around
       - name: Kyounglae Kim
         korean_name: 김경례
