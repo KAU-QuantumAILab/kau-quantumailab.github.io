@@ -1,13 +1,13 @@
 ---
 layout: profiles
 permalink: /people/
-title: People
+title: people
 description: members of the lab or group
 nav: true
 nav_order: 7
 
 professor:
-  name: Jay Hoon Jung
+  name: Prof. Jay Hoon Jung
   image: prof_pic.jpg
   content: about_professor.md
 
@@ -43,7 +43,7 @@ member_groups:
       - name: Boseung Seo
         korean_name: 서보승
         image: boseung.jpg
-        interests: Natural adversarial example
+        interests: Generative model, Reinforcement learning
       - name: SeungHyun Ko
         korean_name: 고승현
         image: none.png
@@ -88,6 +88,10 @@ member_groups:
         korean_name: 김재현
         image: jaehyeon.jpg
         interests: Quantum AI
+      - name: Manseok Kim
+        korean_name: 김만석
+        image: none.jpg
+        interests: Endoscope
   - title: Run
     members:
       - name: Garam Jeong
